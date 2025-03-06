@@ -5,7 +5,7 @@ Este repositório se destina a pratica de programção com colegas do curso de A
 # O QUE VOU ENCONTRAR NESTA PASTA:
 
 - Aplicações teste com o objetivo de permitir experimentação com os vários componentes da linguagem C#
-- HELPEME.md - arquivo com um apurado do que foi aprendido e orientações de uso como boas práticas e formas mais eficientes de obter certos resultados.
+- Pasta "HELP" - pasta com arquivos no formato .md com o apurado do que foi aprendido e orientações de uso como boas práticas e formas mais eficientes de obter certos resultados.
 
 # FAQ
 
