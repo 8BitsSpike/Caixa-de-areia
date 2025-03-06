@@ -1,6 +1,6 @@
-# Caixa-de-areia
+# BEM VINDO
 
-Este repositório se destina a pratica de programção com colegas do curso de Análise e Desenvolvimento de Sistemas da PUC Minas
+Esta pasta se destina a pratica de programção usando a linguagem C#
 
 # O QUE VOU ENCONTRAR NESTA PASTA:
 
