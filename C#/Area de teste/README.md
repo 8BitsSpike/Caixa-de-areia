@@ -1,10 +1,10 @@
-## BEM VINDO
+# BEM VINDO
 
-# O QUE VOU ENCONTRAR NESTA PASTA:
+## O QUE VOU ENCONTRAR NESTA PASTA:
 
 - Nesta pasta estão os projetos teste com o objetivo de permitir experimentação com os vários componentes da linguagem C#
 
-# FAQ
+## FAQ
 
 - Quem é responsável por manter este repositório?
 
