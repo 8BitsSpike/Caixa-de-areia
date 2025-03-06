@@ -1,11 +1,8 @@
-# BEM VINDO
-
-Esta pasta se destina a pratica de programção usando a linguagem JAVA
+## BEM VINDO
 
 # O QUE VOU ENCONTRAR NESTA PASTA:
 
-- Aplicações teste com o objetivo de permitir experimentação com os vários componentes da linguagem C#
-- Pasta "HELP" - pasta com arquivos no formato .md com o apurado do que foi aprendido e orientações de uso como boas práticas e formas mais eficientes de obter certos resultados.
+- Nesta pasta estão os projetos teste com o objetivo de permitir experimentação com os vários componentes da linguagem C#
 
 # FAQ
 
