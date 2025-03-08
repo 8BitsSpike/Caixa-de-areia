@@ -26,3 +26,13 @@ C# é comumente usado em:
 - Conta com grande suporte da comunidade
 - C# é orientado a objeto que torna seu codigo facil de compreender e reutilizar, reduzindo custos de desenvolvimento
 - Por ser muito semelhante a JAVA e C++ fica facil para programadores aprenderem e trocarem de linguagem
+
+## CARACTERÍSTICAS DA LINGUAGEM
+
+- Declarações terminam em ";" assim como em JAVA
+- C# é sensivel a diferença de letras maiúsculas e minusculas
+- Diferente de JAVA classes não precisam ter o memo nome que o arquivo, embora muitas vezes seja usado o mesmo nome por motivo de organização.
+
+## COMO CRIAR COMENTÁRIOS
+
+- Comentários em C# podem ser escritos em linha usando "//" ou em linhas multiplas usando "/_" e "_/"
