@@ -15,6 +15,7 @@
 - C# tem uma extrutura muito semelhante a JAVA, C++ e outras linguagens voltadas para Objeto
 
 Exemplo de codigo em C#:
+```
 
 using System;
 
@@ -28,17 +29,17 @@ namespace HelloWorld
     }
   }
 }
+```
+Linha 1: using System significa que vamos usar uma classe vinda do System namespace.
 
-Linha 1: using System significa que estaremos usando uma classes vinda do System namespace.
+Linha 2: namespace é usado para organizar o código e os seus containers para classes.
 
-Linha 2: namespace é usado para organizar o codigo e os seus containers para classes.
+Linha 3: definimos o que iremos criar, neste caso uma classe, e seu nome.
 
-Linha 3: definimos oque iremos criar, neste caso uma classe, e seu nome.
+Linha 4: aqui definimos o que o nosso código pode fazer, onde ele tem "domínio" e o ripo de retorno, se algum, que ele fornece e quais são as entradas que ele recebe.
 
-Linha 4: aqui definimos o que nosso codigo pode fazer, onde ele tem "dominio" e o ripo de retorno, se algum, que ele fornece e quais são as entradas que ele recebe.
+Linha 5: por fim definimos o que o nosso código faz, o "código" em sí.
 
-Linha 5: por fim definimos o que nosso codigo faz, o "codigo" em sí.
-
-Essa extrutura é bem prática e facil de ler, algumas regras devem ser seguidas para manter sua legibilidade, funcionalidade e o seu bom funcionamento.
+Essa estrutura é bem prática e fácil de ler, algumas regras devem ser seguidas para manter a legibilidade, funcionalidade e o seu bom funcionamento.
 
 
