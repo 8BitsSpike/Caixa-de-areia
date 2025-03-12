@@ -1,12 +1,17 @@
-# Caixa-de-areia
+# CAIXA-DE-AREA
 
 Este repositório se destina a prática de programação com colegas do curso de Análise e Desenvolvimento de Sistemas da PUC Minas
 
-## O QUE VOU ENCONTRAR NESTA PASTA:
+## O QUE VOU ENCONTRAR NESTE REPOSITÓRIO:
 
-- Aplicações teste para permitir experimentação com os vários componentes da linguagem C#
+- Aplicações/projetos teste para permitir experimentação com os vários componentes da linguagem identificada no nome da pasta
 - Pasta "HELP" - pasta com arquivos no formato .md com o apurado do que foi aprendido e orientações de uso como boas práticas e formas mais eficientes de obter certos resultados.
 
+## COMO USAR ESTE REPOSITÓRIO?
+
+Esse repositório está organizado em pastas identificando qual linguagem está sendo explorada, um possível uso seria acesso direto a pasta de seu interesse onde você pode explorar as anotações aplicações/projetos montados pelos nossos colaboradores para entender melhor a linguagem em questão.
+Também pode fazer um fork deste repositório para editar as aplicações/projetos ou tentar refazer eles por conta própria para melhorar o entendimento por meio de experiência direta com a linguagem.
+ 
 ## FAQ
 
 - Quem é responsável por manter este repositório?
