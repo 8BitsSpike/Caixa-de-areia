@@ -17,7 +17,8 @@ C# é comumente usado em:
 - Jogos
 - VR
 - Database applications
-- E muitas outras aplicações!
+
+E muitas outras aplicações!
 
 ## PORQUE USAR C#?
 
@@ -36,10 +37,11 @@ C# é comumente usado em:
 ## USANDO C# NO VISUAL STUDIO CODE
 
 Para usar C# no Visual Studio Code basta seguir os seguitnes passos:
-- Instalar o pacote SDK .NET com a versão suportada mais recente
-- Instalar a extenção <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit">C# Dev Kit</a>
-- Fazer login em uma conta valida da Microsoft
+
+- Instalar o pacote SDK .NET com a versão suportada mais recente(no momento são os .NET core 8 e .NET core 9).
+- Instalar a extenção <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit">C# Dev Kit</a>.
+- Fazer login em uma conta valida da Microsoft.
 
 ## COMO CRIAR COMENTÁRIOS
 
-- Comentários em C# podem ser escritos em linha usando "//" ou em linhas multiplas usando "/_" e "_/"
+- Comentários em C# podem ser escritos em linha usando "//" ou em linhas multiplas usando "/*" e "*/"
