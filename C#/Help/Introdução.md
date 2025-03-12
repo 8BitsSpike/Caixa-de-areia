@@ -35,7 +35,10 @@ C# é comumente usado em:
 
 ## USANDO C# NO VISUAL STUDIO CODE
 
-- Para usar C# no Visual Studio Code basta instalar a extenção <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit">C# Dev Kit</a> e fazer login em uma conta valida da Microsoft
+Para usar C# no Visual Studio Code basta seguir os seguitnes passos:
+- Instalar o pacote SDK .NET com a versão suportada mais recente
+- Instalar a extenção <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit">C# Dev Kit</a>
+- Fazer login em uma conta valida da Microsoft
 
 ## COMO CRIAR COMENTÁRIOS
 
