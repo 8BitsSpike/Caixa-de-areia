@@ -81,3 +81,9 @@ Funções em C# seguem a mesma definição que em outras linguagens, são um con
 
 Seguindo esta definição podemos comparar funções com as instruções que damos/aprendemos quando estamos ensinando/fazendo/aprendendo algo, como tocar musica, lavar louça, dançar e etc.
 
+### OPERADORES LOGICOS
+
+Operadores lógicos são símbolos ou palavras que comparam dois ou mais valores, permitindo a combinação de testes relacionais em uma comparação. Eles são usados para criar expressões lógicas que podem ser verdadeiras ou falsas. 
+
+>Quais são estes operadores?
+
