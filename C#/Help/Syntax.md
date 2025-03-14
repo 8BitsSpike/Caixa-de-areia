@@ -81,9 +81,17 @@ Funções em C# seguem a mesma definição que em outras linguagens, são um con
 
 Seguindo esta definição podemos comparar funções com as instruções que damos/aprendemos quando estamos ensinando/fazendo/aprendendo algo, como tocar musica, lavar louça, dançar e etc.
 
-### OPERADORES LOGICOS
+### DECLARAÇÕES CONDICIONAIS
+
+declarações condicionais, ou estruturas condicionais, são blocos de código que permitem que um programa tome decisões e execute diferentes ações dependendo de uma condição específica, essas decisões são baseadas em operadores que podem ser lógicos, aritiméticos, designadores e comparadores.
+
+### OPERADORES LÓGICOS
 
 Operadores lógicos são símbolos ou palavras que comparam dois ou mais valores, permitindo a combinação de testes relacionais em uma comparação. Eles são usados para criar expressões lógicas que podem ser verdadeiras ou falsas. 
 
 >Quais são estes operadores?
 
+`AND`: Significa que todos os valores de procura devem ser satisfeitos para que um documento seja incluído nos resultados 
+`OR`: Significa que pelo menos um dos valores de procura deve ser satisfeito para que um documento seja incluído nos resultados 
+`NOT`: Realiza uma negação lógica de um único operando 
+`XOR`: Ambos os operandos da expressão são sempre avaliados 
