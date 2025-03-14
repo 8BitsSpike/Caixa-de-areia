@@ -95,3 +95,34 @@ Operadores lógicos são símbolos ou palavras que comparam dois ou mais valores
 `OR`: Significa que pelo menos um dos valores de procura deve ser satisfeito para que um documento seja incluído nos resultados 
 `NOT`: Realiza uma negação lógica de um único operando 
 `XOR`: Ambos os operandos da expressão são sempre avaliados 
+
+### OPERADORES ARITIMÉTICOS
+
+Operadores aritméticos são símbolos que realizam operações matemáticas, como adição, subtração, multiplicação, divisão e resto da divisão. Eles são usados em conjunto com variáveis e valores constantes para criar expressões. 
+
+>Quais são estes operadores?
+
+`Unários`: executam uma ação com um único operando
+`Binários`: executam ações com dois operandos
+
+Exemplos de operadores aritméticos Soma `+`, Subtração `-`, Multiplicação `*`, Divisão `/`, Resto da divisão `%`.
+
+### OPERADORES DESGINADORES
+
+Operadores de desginadores ou de designação/atribuição são símbolos que atribuem um valor a uma variável, utilizando o sinal de igual `=` como operador principal.
+
+### OPERADORES COMPARADORES
+
+Operadores comparadores/comparativos, também conhecidos como operadores relacionais, são símbolos que permitem comparar dois valores e retornam True (verdadeiro) ou False (falso) dependendo do resultado da comparação.
+
+Um bom exemplo de uso deles é o operador ternário que define uma variável,
+podemos em poucas linhas declarar uma serie de situações como condição para uma única variável.
+
+>Quais são estes operadores?
+
+`==` - Igual a - Verifica se dois valores são iguais.
+`!=` - Diferente de - Verifica se dois valores são diferentes.
+`>` - Maior que - Verifica se o valor à esquerda é maior que o valor à direita.
+`<` - Menor que - Verifica se o valor à esquerda é menor que o valor à direita.
+`>=` - Maior ou igual a - Verifica se o valor à esquerda é maior ou igual ao valor à direita.
+`<=` - Menor ou igual a - Verifica se o valor à esquerda é menor ou igual ao valor à direita. 
