@@ -91,10 +91,10 @@ Operadores lógicos são símbolos ou palavras que comparam dois ou mais valores
 
 >Quais são estes operadores?
 
-`AND`: Significa que todos os valores de procura devem ser satisfeitos para que um documento seja incluído nos resultados 
-`OR`: Significa que pelo menos um dos valores de procura deve ser satisfeito para que um documento seja incluído nos resultados 
-`NOT`: Realiza uma negação lógica de um único operando 
-`XOR`: Ambos os operandos da expressão são sempre avaliados 
+`AND`: Significa que todos os valores de procura devem ser satisfeitos para que um documento seja incluído nos resultados<br>
+`OR`: Significa que pelo menos um dos valores de procura deve ser satisfeito para que um documento seja incluído nos resultados<br>
+`NOT`: Realiza uma negação lógica de um único operando<br>
+`XOR`: Ambos os operandos da expressão são sempre avaliados<br>
 
 ### OPERADORES ARITIMÉTICOS
 
@@ -102,8 +102,8 @@ Operadores aritméticos são símbolos que realizam operações matemáticas, co
 
 >Quais são estes operadores?
 
-`Unários`: executam uma ação com um único operando
-`Binários`: executam ações com dois operandos
+`Unários`: executam uma ação com um único operando<br>
+`Binários`: executam ações com dois operandos<br>
 
 Exemplos de operadores aritméticos Soma `+`, Subtração `-`, Multiplicação `*`, Divisão `/`, Resto da divisão `%`.
 
@@ -120,9 +120,9 @@ podemos em poucas linhas declarar uma serie de situações como condição para 
 
 >Quais são estes operadores?
 
-`==` - Igual a - Verifica se dois valores são iguais.
-`!=` - Diferente de - Verifica se dois valores são diferentes.
-`>` - Maior que - Verifica se o valor à esquerda é maior que o valor à direita.
-`<` - Menor que - Verifica se o valor à esquerda é menor que o valor à direita.
-`>=` - Maior ou igual a - Verifica se o valor à esquerda é maior ou igual ao valor à direita.
-`<=` - Menor ou igual a - Verifica se o valor à esquerda é menor ou igual ao valor à direita. 
+`==` - Igual a - Verifica se dois valores são iguais<br>
+`!=` - Diferente de - Verifica se dois valores são diferentes<br>
+`>` - Maior que - Verifica se o valor à esquerda é maior que o valor à direita<br>
+`<` - Menor que - Verifica se o valor à esquerda é menor que o valor à direita<br>
+`>=` - Maior ou igual a - Verifica se o valor à esquerda é maior ou igual ao valor à direita<br>
+`<=` - Menor ou igual a - Verifica se o valor à esquerda é menor ou igual ao valor à direita<br>
