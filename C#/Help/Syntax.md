@@ -42,4 +42,30 @@ Linha 5: por fim definimos o que o nosso código faz, o "código" em sí.
 
 Essa estrutura é bem prática e fácil de ler, algumas regras devem ser seguidas para manter a legibilidade, funcionalidade e o seu bom funcionamento.
 
+## ELEMENTOS SEMÂNTICOS DA PROGRAMAÇÃO EM C#
 
+Os elementos semânticos da linguagem C# seguem a mesma extrutura das linguagens de programação atual, as linhas de código são chamadas declarações, usamos variáveis para apontar valores, fazemos computação de funções que verificam operadores logicos em valores pré-definidos, usamos chaves, couchetes e parenteses para compor a logica de nossas declarações e, por ser uma linguagem orientada a objetos, temos classes, methodos e objetos.
+
+ - Entendendo os Elementos Semânticos:
+
+### Objetos e linguagens voltadas a eles
+
+Para entendermos o que é uma linguagem orientada a objeto devemos entender o que são objetos e como são as linguagens não voltadas a eles.
+Chamamos de programação precedural a forma de programar que monta o código com logica como foco, esse tipo de programação cria algoritimos que trata dados e oferece a resposta. ela é bem objetiva e normalmente é a primeira que aprendemos já que ela iguala a forma como passamos instruções para as varias atividades do dia à dia.
+Já as linguagens voltadas a objetos são montadas como um livro de matemática, elas contem as instruções de o que fazer com os dados e os dados em pacotes que chamamos objetos.
+
+>O que são objetos?
+
+Objetos são pacotes de informação, eles podem contem dados e algoritimos, em geral os objetos são associados a uma classe que os define. 
+
+>O que são classes?
+
+Classes são um conjunto de regras que defino o formato de um objeto, podemos comparar classes com a descrição objetiva de algo, por exemplo, bananas são frutas longas, pouco humidas, cultivadas nos trópicos, de cor amarela e que são produzidas em caixos.
+Nesse exemplo definimos o que são bananas, quando precisarmos de uma banana podemos pedir/associar ela com a definição que criamos.
+Mas como podemos associar um algoritimo a um objeto? nesse caso basta imaginar que a descrição do funcionamento do objeto é parte da descrição, por exeplo, armas de fogo são ferramentas metalicas, com um cilindro para munição, um cano metálico alongado, um gatilho, quando pressionamos o gatilho a monição é deflagrada e o projétil(parte componente da munição) é projetado com alta velocidade para fora da arma seguindo a trajetória definida pelo cilindro.
+
+Desta forma podemos dizer que uma linguagem voltada a objetos é uma linguagem que cria classes para resolver situações em vez de propor um conjunto completo de regrar sempre.
+
+Para esse objetivo usamos algumas regras como o 'DRY' Don't Repeat Yourself(não se repita) que é uma regra muito útil já que ela orienta o programador a MODULARIZAR seu código.
+
+### Variáveis
