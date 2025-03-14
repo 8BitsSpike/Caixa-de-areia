@@ -69,3 +69,15 @@ Desta forma podemos dizer que uma linguagem voltada a objetos é uma linguagem q
 Para esse objetivo usamos algumas regras como o 'DRY' Don't Repeat Yourself(não se repita) que é uma regra muito útil já que ela orienta o programador a MODULARIZAR seu código.
 
 ### Variáveis
+
+C# usa uma definição de variável muito semelhante ao usado em JAVA, variáveis neste caso se refere a todo valor que vai ser "negociado" durante a execução do codigo.
+Essa "negociação" pode ser leitura de um valor armazenado na memoria, leitura de um arquivo, entrada de um imput, computação de valores outros usando algum method ou valores absolutos definidos por padrão(Zero, Pi e etc).
+
+Esse Valores são identificados por um tipo(type) e posição definida na memoria(mesmo os que são lidos de outros arquivos ou inceridos pelo usuário durante o uso do app), alguns podem mudar dinamicamente de valor, outros são fixos e alguns que servem apensas de "ponteira" já que só informam sobre a posição na memoria de algum valor.
+
+### FUNÇÕES
+
+Funções em C# seguem a mesma definição que em outras linguagens, são um conjunto de procedimentos/regras que usamos para tratar valores para obter um resultado esperado, este pode ser repetido indefinidamente e sempre teremos o mesmo resultado ou formato de resultado.
+
+Seguindo esta definição podemos comparar funções com as instruções que damos/aprendemos quando estamos ensinando/fazendo/aprendendo algo, como tocar musica, lavar louça, dançar e etc.
+
