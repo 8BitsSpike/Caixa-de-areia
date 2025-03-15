@@ -52,4 +52,15 @@ A classe `FILE` tem muitos methodos úteis como:
 `File.GetLastWriteTime(string path)`: Obtém a data/hora da última modificação do arquivo.<br>
 `File.SetLastWriteTime(string path, DateTime lastWriteTime)`: Define a data/hora da última modificação do arquivo.<br>
 
-Para nosso uso em OUTPUT 
+Para nosso uso em OUTPUT podemos criar um arquivo e edita-lo ou podemos achar um que já exista e editar.
+
+A melhor forma de saída depende do contexto:
+
+Aplicação console → `Console.WriteLine()`<br>
+Depuração → `Debug.WriteLine()`<br>
+Logs → `Trace`, `NLog`, `Serilog`<br>
+Interface Gráfica → `MessageBox.Show()`, `TextBlock.Text`<br>
+Arquivos → `File.WriteAllText()`<br>
+APIs Web → JSON via `return Json()`<br>
+
+* Falta estudar depuração, log e interface gráfica.
